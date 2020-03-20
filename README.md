@@ -24,4 +24,4 @@
 
 # followed <by#$%> weird chars
 
-# followed <by #$%> space then weird chars
+# followed <by test="$%^"> space then weird chars

@@ -25,3 +25,7 @@
 # followed <by#$%> weird chars
 
 # followed <by test="$%^"> space then weird chars
+
+# <!---->
+
+# comment <!-- inside -->

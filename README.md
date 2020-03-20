@@ -23,3 +23,5 @@
 # just <#$%> weird chars
 
 # followed <by#$%> weird chars
+
+# followed <by #$%> space then weird chars

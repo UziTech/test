@@ -19,3 +19,7 @@
 # just <non tags
   
 # just <tags with>spaces
+
+# just <#$%> weird chars
+
+# followed <by#$%> weird chars

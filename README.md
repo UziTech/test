@@ -15,3 +15,7 @@
 # just <tags>test 3</any>
   
 # just <tags>test 4<any>
+  
+# just <non tags
+  
+# just <tags with>spaces
